@@ -3,7 +3,7 @@
 Hey 👋 <br>
 I’m **Pooja Dhamale** <br><br>
 
-🎓 Currently pursuing B.E. in Artificial Intelligence & Data Science (3rd Year) <br>
+🎓 Currently pursuing B.E. in Artificial Intelligence & Data Science (4th Year) <br>
 📊 Interested in  Data Science , Data Analytics and Machine Learning <br>
 💬 Ask me about Python, SQL, dashboards, and Data projects <br>
 ⚙️ I work on analyzing data, building dashboards, and ML solutions <br>
